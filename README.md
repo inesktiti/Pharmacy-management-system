@@ -5,5 +5,8 @@ This Pharmacy management system was created under the OOP course. This system is
 - Mahdi Msallem
 - Ines Ktiti
 - Iheb Zrig
+## Contributing
+Requests for pull requests are encouraged. Please open an issue first to discuss what you want to modify before making substantial changes.
+
  ## License
  [MIT](https://choosealicense.com/licenses/mit/)
